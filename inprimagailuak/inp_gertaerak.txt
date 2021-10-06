@@ -1,0 +1,12 @@
+E 0 1gaia.pdf
+E 1 txostena.pdf
+B 0
+E 0 laburpena.odt
+E 3 oharrak.pdf
+B 3
+E 3 Kodea.java
+I
+B 4
+E 2 datuak.txt
+K
+E 0 Programa.java
